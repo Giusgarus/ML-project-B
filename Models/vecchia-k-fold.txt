@@ -1,0 +1,62 @@
+def k_fold_cross_validation(data, labels, in_size, k=5, params=None):
+    """
+    Implementa una K-Fold Cross-Validation con Early Stopping
+    """
+    scores = []
+    folds = split_data(data, labels, k=k)
+
+    # EarlyStopping callback con pazienza
+    early_stopping = EarlyStopping(monitor='val_accuracy', patience=params['patience'], restore_best_weights=True)
+
+    for i in range(k):
+        # Creazione della rete neurale
+        model = create_nn(input_dim=in_size, 
+                          learning_rate=params['learning_rate'], 
+                          hidden_size=params['hidden_size'], 
+                          hidden_layers=params['hidden_layers'], 
+                          regularization=params['regularization'], 
+                          momentum=params['momentum'], 
+                          alpha=params['alpha'])
+
+        test_data, test_labels = folds[i]
+        train_data = np.concatenate([fold[0] for j, fold in enumerate(folds) if j != i])
+        train_labels = np.concatenate([fold[1] for j, fold in enumerate(folds) if j != i])
+
+        # Addestramento con EarlyStopping
+        history = model.fit(train_data, train_labels, 
+                            epochs=params['epochs'], 
+                            batch_size=params['batch_size'], 
+                            validation_data=(test_data, test_labels),
+                            verbose=0, 
+                            callbacks=[early_stopping])
+
+        # Prendi il miglior score (l'accuratezza di validazione massima)
+        score = max(history.history['val_accuracy'])
+        scores.append(score)
+
+    avg_score = np.mean(scores)
+
+    # Training finale sul dataset completo
+    #train_data = np.concatenate([fold[0] for fold in folds])
+    #train_labels = np.concatenate([fold[1] for fold in folds])
+
+    X_train, X_val, y_train, y_val = train_test_split(data, labels, test_size=0.2, random_state=42)
+
+
+    model = create_nn(input_dim=in_size, 
+                      learning_rate=params['learning_rate'], 
+                      hidden_size=params['hidden_size'], 
+                      hidden_layers=params['hidden_layers'], 
+                      regularization=params['regularization'], 
+                      momentum=params['momentum'], 
+                      alpha=params['alpha'])
+
+    # Addestramento finale con EarlyStopping
+    history = model.fit(X_train, y_train, 
+                        epochs=params['epochs'], 
+                        batch_size=params['batch_size'], 
+                        validation_data=(X_val, y_val),
+                        verbose=0, 
+                        callbacks=[early_stopping])
+
+    return avg_score, history, model
