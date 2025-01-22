@@ -1,0 +1,438 @@
+--------------------------------------------------
+Testing params: {'learning_rate': 0.3, 'epochs': 50, 'batch_size': 4, 'hidden_size': 1, 'hidden_layers': 1, 'momentum': 0.6, 'regularization': 0.001, 'alpha': 0.01, 'patience': 10}
+Score : 0.7333333373069764
+--------------------------------------------------
+Testing params: {'learning_rate': 0.3, 'epochs': 50, 'batch_size': 4, 'hidden_size': 1, 'hidden_layers': 1, 'momentum': 0.6, 'regularization': 0.051000000000000004, 'alpha': 0.01, 'patience': 10}
+Score : 0.7499999880790711
+--------------------------------------------------
+Testing params: {'learning_rate': 0.3, 'epochs': 50, 'batch_size': 4, 'hidden_size': 1, 'hidden_layers': 1, 'momentum': 0.7, 'regularization': 0.001, 'alpha': 0.01, 'patience': 10}
+Score : 0.7833333373069763
+--------------------------------------------------
+Testing params: {'learning_rate': 0.3, 'epochs': 50, 'batch_size': 4, 'hidden_size': 1, 'hidden_layers': 1, 'momentum': 0.7, 'regularization': 0.051000000000000004, 'alpha': 0.01, 'patience': 10}
+Score : 0.6916666746139526
+--------------------------------------------------
+Testing params: {'learning_rate': 0.3, 'epochs': 50, 'batch_size': 4, 'hidden_size': 1, 'hidden_layers': 1, 'momentum': 0.7999999999999999, 'regularization': 0.001, 'alpha': 0.01, 'patience': 10}
+Score : 0.7333333253860473
+--------------------------------------------------
+Testing params: {'learning_rate': 0.3, 'epochs': 50, 'batch_size': 4, 'hidden_size': 1, 'hidden_layers': 1, 'momentum': 0.7999999999999999, 'regularization': 0.051000000000000004, 'alpha': 0.01, 'patience': 10}
+Score : 0.6833333373069763
+--------------------------------------------------
+Testing params: {'learning_rate': 0.3, 'epochs': 50, 'batch_size': 4, 'hidden_size': 1, 'hidden_layers': 1, 'momentum': 0.8999999999999999, 'regularization': 0.001, 'alpha': 0.01, 'patience': 10}
+Score : 0.7166666626930237
+--------------------------------------------------
+Testing params: {'learning_rate': 0.3, 'epochs': 50, 'batch_size': 4, 'hidden_size': 1, 'hidden_layers': 1, 'momentum': 0.8999999999999999, 'regularization': 0.051000000000000004, 'alpha': 0.01, 'patience': 10}
+Score : 0.6166666746139526
+--------------------------------------------------
+Testing params: {'learning_rate': 0.3, 'epochs': 50, 'batch_size': 4, 'hidden_size': 1, 'hidden_layers': 2, 'momentum': 0.6, 'regularization': 0.001, 'alpha': 0.01, 'patience': 10}
+Score : 0.6166666507720947
+--------------------------------------------------
+Testing params: {'learning_rate': 0.3, 'epochs': 50, 'batch_size': 4, 'hidden_size': 1, 'hidden_layers': 2, 'momentum': 0.6, 'regularization': 0.051000000000000004, 'alpha': 0.01, 'patience': 10}
+Score : 0.550000011920929
+--------------------------------------------------
+Testing params: {'learning_rate': 0.3, 'epochs': 50, 'batch_size': 4, 'hidden_size': 1, 'hidden_layers': 2, 'momentum': 0.7, 'regularization': 0.001, 'alpha': 0.01, 'patience': 10}
+Score : 0.6333333373069763
+--------------------------------------------------
+Testing params: {'learning_rate': 0.3, 'epochs': 50, 'batch_size': 4, 'hidden_size': 1, 'hidden_layers': 2, 'momentum': 0.7, 'regularization': 0.051000000000000004, 'alpha': 0.01, 'patience': 10}
+Score : 0.575
+--------------------------------------------------
+Testing params: {'learning_rate': 0.3, 'epochs': 50, 'batch_size': 4, 'hidden_size': 1, 'hidden_layers': 2, 'momentum': 0.7999999999999999, 'regularization': 0.001, 'alpha': 0.01, 'patience': 10}
+Score : 0.6083333492279053
+--------------------------------------------------
+Testing params: {'learning_rate': 0.3, 'epochs': 50, 'batch_size': 4, 'hidden_size': 1, 'hidden_layers': 2, 'momentum': 0.7999999999999999, 'regularization': 0.051000000000000004, 'alpha': 0.01, 'patience': 10}
+Score : 0.6083333373069764
+--------------------------------------------------
+Testing params: {'learning_rate': 0.3, 'epochs': 50, 'batch_size': 4, 'hidden_size': 1, 'hidden_layers': 2, 'momentum': 0.8999999999999999, 'regularization': 0.001, 'alpha': 0.01, 'patience': 10}
+Score : 0.5916666865348816
+--------------------------------------------------
+Testing params: {'learning_rate': 0.3, 'epochs': 50, 'batch_size': 4, 'hidden_size': 1, 'hidden_layers': 2, 'momentum': 0.8999999999999999, 'regularization': 0.051000000000000004, 'alpha': 0.01, 'patience': 10}
+Score : 0.55
+--------------------------------------------------
+Testing params: {'learning_rate': 0.3, 'epochs': 50, 'batch_size': 4, 'hidden_size': 1, 'hidden_layers': 3, 'momentum': 0.6, 'regularization': 0.001, 'alpha': 0.01, 'patience': 10}
+Score : 0.4916666686534882
+--------------------------------------------------
+Testing params: {'learning_rate': 0.3, 'epochs': 50, 'batch_size': 4, 'hidden_size': 1, 'hidden_layers': 3, 'momentum': 0.6, 'regularization': 0.051000000000000004, 'alpha': 0.01, 'patience': 10}
+Score : 0.550000011920929
+--------------------------------------------------
+Testing params: {'learning_rate': 0.3, 'epochs': 50, 'batch_size': 4, 'hidden_size': 1, 'hidden_layers': 3, 'momentum': 0.7, 'regularization': 0.001, 'alpha': 0.01, 'patience': 10}
+Score : 0.625
+--------------------------------------------------
+Testing params: {'learning_rate': 0.3, 'epochs': 50, 'batch_size': 4, 'hidden_size': 1, 'hidden_layers': 3, 'momentum': 0.7, 'regularization': 0.051000000000000004, 'alpha': 0.01, 'patience': 10}
+Score : 0.6583333492279053
+--------------------------------------------------
+Testing params: {'learning_rate': 0.3, 'epochs': 50, 'batch_size': 4, 'hidden_size': 1, 'hidden_layers': 3, 'momentum': 0.7999999999999999, 'regularization': 0.001, 'alpha': 0.01, 'patience': 10}
+Score : 0.5583333373069763
+--------------------------------------------------
+Testing params: {'learning_rate': 0.3, 'epochs': 50, 'batch_size': 4, 'hidden_size': 1, 'hidden_layers': 3, 'momentum': 0.7999999999999999, 'regularization': 0.051000000000000004, 'alpha': 0.01, 'patience': 10}
+Score : 0.55
+--------------------------------------------------
+Testing params: {'learning_rate': 0.3, 'epochs': 50, 'batch_size': 4, 'hidden_size': 1, 'hidden_layers': 3, 'momentum': 0.8999999999999999, 'regularization': 0.001, 'alpha': 0.01, 'patience': 10}
+Score : 0.5583333373069763
+--------------------------------------------------
+Testing params: {'learning_rate': 0.3, 'epochs': 50, 'batch_size': 4, 'hidden_size': 1, 'hidden_layers': 3, 'momentum': 0.8999999999999999, 'regularization': 0.051000000000000004, 'alpha': 0.01, 'patience': 10}
+Score : 0.5999999880790711
+--------------------------------------------------
+Testing params: {'learning_rate': 0.3, 'epochs': 50, 'batch_size': 4, 'hidden_size': 2, 'hidden_layers': 1, 'momentum': 0.6, 'regularization': 0.001, 'alpha': 0.01, 'patience': 10}
+Score : 0.7500000119209289
+--------------------------------------------------
+Testing params: {'learning_rate': 0.3, 'epochs': 50, 'batch_size': 4, 'hidden_size': 2, 'hidden_layers': 1, 'momentum': 0.6, 'regularization': 0.051000000000000004, 'alpha': 0.01, 'patience': 10}
+Score : 0.7416666626930237
+--------------------------------------------------
+Testing params: {'learning_rate': 0.3, 'epochs': 50, 'batch_size': 4, 'hidden_size': 2, 'hidden_layers': 1, 'momentum': 0.7, 'regularization': 0.001, 'alpha': 0.01, 'patience': 10}
+Score : 0.7666666626930236
+--------------------------------------------------
+Testing params: {'learning_rate': 0.3, 'epochs': 50, 'batch_size': 4, 'hidden_size': 2, 'hidden_layers': 1, 'momentum': 0.7, 'regularization': 0.051000000000000004, 'alpha': 0.01, 'patience': 10}
+Score : 0.7
+--------------------------------------------------
+Testing params: {'learning_rate': 0.3, 'epochs': 50, 'batch_size': 4, 'hidden_size': 2, 'hidden_layers': 1, 'momentum': 0.7999999999999999, 'regularization': 0.001, 'alpha': 0.01, 'patience': 10}
+Score : 0.775
+--------------------------------------------------
+Testing params: {'learning_rate': 0.3, 'epochs': 50, 'batch_size': 4, 'hidden_size': 2, 'hidden_layers': 1, 'momentum': 0.7999999999999999, 'regularization': 0.051000000000000004, 'alpha': 0.01, 'patience': 10}
+Score : 0.6833333373069763
+--------------------------------------------------
+Testing params: {'learning_rate': 0.3, 'epochs': 50, 'batch_size': 4, 'hidden_size': 2, 'hidden_layers': 1, 'momentum': 0.8999999999999999, 'regularization': 0.001, 'alpha': 0.01, 'patience': 10}
+Score : 0.7
+--------------------------------------------------
+Testing params: {'learning_rate': 0.3, 'epochs': 50, 'batch_size': 4, 'hidden_size': 2, 'hidden_layers': 1, 'momentum': 0.8999999999999999, 'regularization': 0.051000000000000004, 'alpha': 0.01, 'patience': 10}
+Score : 0.6083333253860473
+--------------------------------------------------
+Testing params: {'learning_rate': 0.3, 'epochs': 50, 'batch_size': 4, 'hidden_size': 2, 'hidden_layers': 2, 'momentum': 0.6, 'regularization': 0.001, 'alpha': 0.01, 'patience': 10}
+Score : 0.7583333253860474
+--------------------------------------------------
+Testing params: {'learning_rate': 0.3, 'epochs': 50, 'batch_size': 4, 'hidden_size': 2, 'hidden_layers': 2, 'momentum': 0.6, 'regularization': 0.051000000000000004, 'alpha': 0.01, 'patience': 10}
+Score : 0.6
+--------------------------------------------------
+Testing params: {'learning_rate': 0.3, 'epochs': 50, 'batch_size': 4, 'hidden_size': 2, 'hidden_layers': 2, 'momentum': 0.7, 'regularization': 0.001, 'alpha': 0.01, 'patience': 10}
+Score : 0.7583333373069763
+--------------------------------------------------
+Testing params: {'learning_rate': 0.3, 'epochs': 50, 'batch_size': 4, 'hidden_size': 2, 'hidden_layers': 2, 'momentum': 0.7, 'regularization': 0.051000000000000004, 'alpha': 0.01, 'patience': 10}
+Score : 0.6416666746139527
+--------------------------------------------------
+Testing params: {'learning_rate': 0.3, 'epochs': 50, 'batch_size': 4, 'hidden_size': 2, 'hidden_layers': 2, 'momentum': 0.7999999999999999, 'regularization': 0.001, 'alpha': 0.01, 'patience': 10}
+Score : 0.6916666626930237
+--------------------------------------------------
+Testing params: {'learning_rate': 0.3, 'epochs': 50, 'batch_size': 4, 'hidden_size': 2, 'hidden_layers': 2, 'momentum': 0.7999999999999999, 'regularization': 0.051000000000000004, 'alpha': 0.01, 'patience': 10}
+Score : 0.5583333253860474
+--------------------------------------------------
+Testing params: {'learning_rate': 0.3, 'epochs': 50, 'batch_size': 4, 'hidden_size': 2, 'hidden_layers': 2, 'momentum': 0.8999999999999999, 'regularization': 0.001, 'alpha': 0.01, 'patience': 10}
+Score : 0.6333333253860474
+--------------------------------------------------
+Testing params: {'learning_rate': 0.3, 'epochs': 50, 'batch_size': 4, 'hidden_size': 2, 'hidden_layers': 2, 'momentum': 0.8999999999999999, 'regularization': 0.051000000000000004, 'alpha': 0.01, 'patience': 10}
+Score : 0.575000011920929
+--------------------------------------------------
+Testing params: {'learning_rate': 0.3, 'epochs': 50, 'batch_size': 4, 'hidden_size': 2, 'hidden_layers': 3, 'momentum': 0.6, 'regularization': 0.001, 'alpha': 0.01, 'patience': 10}
+Score : 0.6916666746139526
+--------------------------------------------------
+Testing params: {'learning_rate': 0.3, 'epochs': 50, 'batch_size': 4, 'hidden_size': 2, 'hidden_layers': 3, 'momentum': 0.6, 'regularization': 0.051000000000000004, 'alpha': 0.01, 'patience': 10}
+Score : 0.5583333373069763
+--------------------------------------------------
+Testing params: {'learning_rate': 0.3, 'epochs': 50, 'batch_size': 4, 'hidden_size': 2, 'hidden_layers': 3, 'momentum': 0.7, 'regularization': 0.001, 'alpha': 0.01, 'patience': 10}
+Score : 0.7166666746139526
+--------------------------------------------------
+Testing params: {'learning_rate': 0.3, 'epochs': 50, 'batch_size': 4, 'hidden_size': 2, 'hidden_layers': 3, 'momentum': 0.7, 'regularization': 0.051000000000000004, 'alpha': 0.01, 'patience': 10}
+Score : 0.5333333373069763
+--------------------------------------------------
+Testing params: {'learning_rate': 0.3, 'epochs': 50, 'batch_size': 4, 'hidden_size': 2, 'hidden_layers': 3, 'momentum': 0.7999999999999999, 'regularization': 0.001, 'alpha': 0.01, 'patience': 10}
+Score : 0.6583333492279053
+--------------------------------------------------
+Testing params: {'learning_rate': 0.3, 'epochs': 50, 'batch_size': 4, 'hidden_size': 2, 'hidden_layers': 3, 'momentum': 0.7999999999999999, 'regularization': 0.051000000000000004, 'alpha': 0.01, 'patience': 10}
+Score : 0.5416666746139527
+--------------------------------------------------
+Testing params: {'learning_rate': 0.3, 'epochs': 50, 'batch_size': 4, 'hidden_size': 2, 'hidden_layers': 3, 'momentum': 0.8999999999999999, 'regularization': 0.001, 'alpha': 0.01, 'patience': 10}
+Score : 0.6
+--------------------------------------------------
+Testing params: {'learning_rate': 0.3, 'epochs': 50, 'batch_size': 4, 'hidden_size': 2, 'hidden_layers': 3, 'momentum': 0.8999999999999999, 'regularization': 0.051000000000000004, 'alpha': 0.01, 'patience': 10}
+Score : 0.575
+--------------------------------------------------
+Testing params: {'learning_rate': 0.3, 'epochs': 50, 'batch_size': 4, 'hidden_size': 3, 'hidden_layers': 1, 'momentum': 0.6, 'regularization': 0.001, 'alpha': 0.01, 'patience': 10}
+Score : 0.7499999880790711
+--------------------------------------------------
+Testing params: {'learning_rate': 0.3, 'epochs': 50, 'batch_size': 4, 'hidden_size': 3, 'hidden_layers': 1, 'momentum': 0.6, 'regularization': 0.051000000000000004, 'alpha': 0.01, 'patience': 10}
+Score : 0.775
+--------------------------------------------------
+Testing params: {'learning_rate': 0.3, 'epochs': 50, 'batch_size': 4, 'hidden_size': 3, 'hidden_layers': 1, 'momentum': 0.7, 'regularization': 0.001, 'alpha': 0.01, 'patience': 10}
+Score : 0.7333333373069764
+--------------------------------------------------
+Testing params: {'learning_rate': 0.3, 'epochs': 50, 'batch_size': 4, 'hidden_size': 3, 'hidden_layers': 1, 'momentum': 0.7, 'regularization': 0.051000000000000004, 'alpha': 0.01, 'patience': 10}
+Score : 0.7
+--------------------------------------------------
+Testing params: {'learning_rate': 0.3, 'epochs': 50, 'batch_size': 4, 'hidden_size': 3, 'hidden_layers': 1, 'momentum': 0.7999999999999999, 'regularization': 0.001, 'alpha': 0.01, 'patience': 10}
+Score : 0.7666666746139527
+--------------------------------------------------
+Testing params: {'learning_rate': 0.3, 'epochs': 50, 'batch_size': 4, 'hidden_size': 3, 'hidden_layers': 1, 'momentum': 0.7999999999999999, 'regularization': 0.051000000000000004, 'alpha': 0.01, 'patience': 10}
+Score : 0.674999988079071
+--------------------------------------------------
+Testing params: {'learning_rate': 0.3, 'epochs': 50, 'batch_size': 4, 'hidden_size': 3, 'hidden_layers': 1, 'momentum': 0.8999999999999999, 'regularization': 0.001, 'alpha': 0.01, 'patience': 10}
+Score : 0.7333333373069764
+--------------------------------------------------
+Testing params: {'learning_rate': 0.3, 'epochs': 50, 'batch_size': 4, 'hidden_size': 3, 'hidden_layers': 1, 'momentum': 0.8999999999999999, 'regularization': 0.051000000000000004, 'alpha': 0.01, 'patience': 10}
+Score : 0.6166666746139526
+--------------------------------------------------
+Testing params: {'learning_rate': 0.3, 'epochs': 50, 'batch_size': 4, 'hidden_size': 3, 'hidden_layers': 2, 'momentum': 0.6, 'regularization': 0.001, 'alpha': 0.01, 'patience': 10}
+Score : 0.7583333373069763
+--------------------------------------------------
+Testing params: {'learning_rate': 0.3, 'epochs': 50, 'batch_size': 4, 'hidden_size': 3, 'hidden_layers': 2, 'momentum': 0.6, 'regularization': 0.051000000000000004, 'alpha': 0.01, 'patience': 10}
+Score : 0.6416666626930236
+--------------------------------------------------
+Testing params: {'learning_rate': 0.3, 'epochs': 50, 'batch_size': 4, 'hidden_size': 3, 'hidden_layers': 2, 'momentum': 0.7, 'regularization': 0.001, 'alpha': 0.01, 'patience': 10}
+Score : 0.725
+--------------------------------------------------
+Testing params: {'learning_rate': 0.3, 'epochs': 50, 'batch_size': 4, 'hidden_size': 3, 'hidden_layers': 2, 'momentum': 0.7, 'regularization': 0.051000000000000004, 'alpha': 0.01, 'patience': 10}
+Score : 0.6083333253860473
+--------------------------------------------------
+Testing params: {'learning_rate': 0.3, 'epochs': 50, 'batch_size': 4, 'hidden_size': 3, 'hidden_layers': 2, 'momentum': 0.7999999999999999, 'regularization': 0.001, 'alpha': 0.01, 'patience': 10}
+Score : 0.6333333313465118
+--------------------------------------------------
+Testing params: {'learning_rate': 0.3, 'epochs': 50, 'batch_size': 4, 'hidden_size': 3, 'hidden_layers': 2, 'momentum': 0.7999999999999999, 'regularization': 0.051000000000000004, 'alpha': 0.01, 'patience': 10}
+Score : 0.55
+--------------------------------------------------
+Testing params: {'learning_rate': 0.3, 'epochs': 50, 'batch_size': 4, 'hidden_size': 3, 'hidden_layers': 2, 'momentum': 0.8999999999999999, 'regularization': 0.001, 'alpha': 0.01, 'patience': 10}
+Score : 0.6333333253860474
+--------------------------------------------------
+Testing params: {'learning_rate': 0.3, 'epochs': 50, 'batch_size': 4, 'hidden_size': 3, 'hidden_layers': 2, 'momentum': 0.8999999999999999, 'regularization': 0.051000000000000004, 'alpha': 0.01, 'patience': 10}
+Score : 0.575
+--------------------------------------------------
+Testing params: {'learning_rate': 0.3, 'epochs': 50, 'batch_size': 4, 'hidden_size': 3, 'hidden_layers': 3, 'momentum': 0.6, 'regularization': 0.001, 'alpha': 0.01, 'patience': 10}
+Score : 0.7416666626930237
+--------------------------------------------------
+Testing params: {'learning_rate': 0.3, 'epochs': 50, 'batch_size': 4, 'hidden_size': 3, 'hidden_layers': 3, 'momentum': 0.6, 'regularization': 0.051000000000000004, 'alpha': 0.01, 'patience': 10}
+Score : 0.5583333373069763
+--------------------------------------------------
+Testing params: {'learning_rate': 0.3, 'epochs': 50, 'batch_size': 4, 'hidden_size': 3, 'hidden_layers': 3, 'momentum': 0.7, 'regularization': 0.001, 'alpha': 0.01, 'patience': 10}
+Score : 0.7
+--------------------------------------------------
+Testing params: {'learning_rate': 0.3, 'epochs': 50, 'batch_size': 4, 'hidden_size': 3, 'hidden_layers': 3, 'momentum': 0.7, 'regularization': 0.051000000000000004, 'alpha': 0.01, 'patience': 10}
+Score : 0.5583333373069763
+--------------------------------------------------
+Testing params: {'learning_rate': 0.3, 'epochs': 50, 'batch_size': 4, 'hidden_size': 3, 'hidden_layers': 3, 'momentum': 0.7999999999999999, 'regularization': 0.001, 'alpha': 0.01, 'patience': 10}
+Score : 0.6666666626930237
+--------------------------------------------------
+Testing params: {'learning_rate': 0.3, 'epochs': 50, 'batch_size': 4, 'hidden_size': 3, 'hidden_layers': 3, 'momentum': 0.7999999999999999, 'regularization': 0.051000000000000004, 'alpha': 0.01, 'patience': 10}
+Score : 0.575000011920929
+--------------------------------------------------
+Testing params: {'learning_rate': 0.3, 'epochs': 50, 'batch_size': 4, 'hidden_size': 3, 'hidden_layers': 3, 'momentum': 0.8999999999999999, 'regularization': 0.001, 'alpha': 0.01, 'patience': 10}
+Score : 0.5083333313465118
+--------------------------------------------------
+Testing params: {'learning_rate': 0.3, 'epochs': 50, 'batch_size': 4, 'hidden_size': 3, 'hidden_layers': 3, 'momentum': 0.8999999999999999, 'regularization': 0.051000000000000004, 'alpha': 0.01, 'patience': 10}
+Score : 0.5833333373069763
+--------------------------------------------------
+Testing params: {'learning_rate': 0.3, 'epochs': 50, 'batch_size': 4, 'hidden_size': 4, 'hidden_layers': 1, 'momentum': 0.6, 'regularization': 0.001, 'alpha': 0.01, 'patience': 10}
+Score : 0.7833333253860474
+--------------------------------------------------
+Testing params: {'learning_rate': 0.3, 'epochs': 50, 'batch_size': 4, 'hidden_size': 4, 'hidden_layers': 1, 'momentum': 0.6, 'regularization': 0.051000000000000004, 'alpha': 0.01, 'patience': 10}
+Score : 0.7500000119209289
+--------------------------------------------------
+Testing params: {'learning_rate': 0.3, 'epochs': 50, 'batch_size': 4, 'hidden_size': 4, 'hidden_layers': 1, 'momentum': 0.7, 'regularization': 0.001, 'alpha': 0.01, 'patience': 10}
+Score : 0.8
+--------------------------------------------------
+Testing params: {'learning_rate': 0.3, 'epochs': 50, 'batch_size': 4, 'hidden_size': 4, 'hidden_layers': 1, 'momentum': 0.7, 'regularization': 0.051000000000000004, 'alpha': 0.01, 'patience': 10}
+Score : 0.7583333253860474
+--------------------------------------------------
+Testing params: {'learning_rate': 0.3, 'epochs': 50, 'batch_size': 4, 'hidden_size': 4, 'hidden_layers': 1, 'momentum': 0.7999999999999999, 'regularization': 0.001, 'alpha': 0.01, 'patience': 10}
+Score : 0.7166666746139526
+--------------------------------------------------
+Testing params: {'learning_rate': 0.3, 'epochs': 50, 'batch_size': 4, 'hidden_size': 4, 'hidden_layers': 1, 'momentum': 0.7999999999999999, 'regularization': 0.051000000000000004, 'alpha': 0.01, 'patience': 10}
+Score : 0.6916666626930237
+--------------------------------------------------
+Testing params: {'learning_rate': 0.3, 'epochs': 50, 'batch_size': 4, 'hidden_size': 4, 'hidden_layers': 1, 'momentum': 0.8999999999999999, 'regularization': 0.001, 'alpha': 0.01, 'patience': 10}
+Score : 0.75
+--------------------------------------------------
+Testing params: {'learning_rate': 0.3, 'epochs': 50, 'batch_size': 4, 'hidden_size': 4, 'hidden_layers': 1, 'momentum': 0.8999999999999999, 'regularization': 0.051000000000000004, 'alpha': 0.01, 'patience': 10}
+Score : 0.6416666746139527
+--------------------------------------------------
+Testing params: {'learning_rate': 0.3, 'epochs': 50, 'batch_size': 4, 'hidden_size': 4, 'hidden_layers': 2, 'momentum': 0.6, 'regularization': 0.001, 'alpha': 0.01, 'patience': 10}
+Score : 0.7499999880790711
+--------------------------------------------------
+Testing params: {'learning_rate': 0.3, 'epochs': 50, 'batch_size': 4, 'hidden_size': 4, 'hidden_layers': 2, 'momentum': 0.6, 'regularization': 0.051000000000000004, 'alpha': 0.01, 'patience': 10}
+Score : 0.6250000119209289
+--------------------------------------------------
+Testing params: {'learning_rate': 0.3, 'epochs': 50, 'batch_size': 4, 'hidden_size': 4, 'hidden_layers': 2, 'momentum': 0.7, 'regularization': 0.001, 'alpha': 0.01, 'patience': 10}
+Score : 0.7833333373069763
+--------------------------------------------------
+Testing params: {'learning_rate': 0.3, 'epochs': 50, 'batch_size': 4, 'hidden_size': 4, 'hidden_layers': 2, 'momentum': 0.7, 'regularization': 0.051000000000000004, 'alpha': 0.01, 'patience': 10}
+Score : 0.5666666626930237
+--------------------------------------------------
+Testing params: {'learning_rate': 0.3, 'epochs': 50, 'batch_size': 4, 'hidden_size': 4, 'hidden_layers': 2, 'momentum': 0.7999999999999999, 'regularization': 0.001, 'alpha': 0.01, 'patience': 10}
+Score : 0.6249999880790711
+--------------------------------------------------
+Testing params: {'learning_rate': 0.3, 'epochs': 50, 'batch_size': 4, 'hidden_size': 4, 'hidden_layers': 2, 'momentum': 0.7999999999999999, 'regularization': 0.051000000000000004, 'alpha': 0.01, 'patience': 10}
+Score : 0.6083333253860473
+--------------------------------------------------
+Testing params: {'learning_rate': 0.3, 'epochs': 50, 'batch_size': 4, 'hidden_size': 4, 'hidden_layers': 2, 'momentum': 0.8999999999999999, 'regularization': 0.001, 'alpha': 0.01, 'patience': 10}
+Score : 0.600000011920929
+--------------------------------------------------
+Testing params: {'learning_rate': 0.3, 'epochs': 50, 'batch_size': 4, 'hidden_size': 4, 'hidden_layers': 2, 'momentum': 0.8999999999999999, 'regularization': 0.051000000000000004, 'alpha': 0.01, 'patience': 10}
+Score : 0.5916666746139526
+--------------------------------------------------
+Testing params: {'learning_rate': 0.3, 'epochs': 50, 'batch_size': 4, 'hidden_size': 4, 'hidden_layers': 3, 'momentum': 0.6, 'regularization': 0.001, 'alpha': 0.01, 'patience': 10}
+Score : 0.7333333373069764
+--------------------------------------------------
+Testing params: {'learning_rate': 0.3, 'epochs': 50, 'batch_size': 4, 'hidden_size': 4, 'hidden_layers': 3, 'momentum': 0.6, 'regularization': 0.051000000000000004, 'alpha': 0.01, 'patience': 10}
+Score : 0.5833333373069763
+--------------------------------------------------
+Testing params: {'learning_rate': 0.3, 'epochs': 50, 'batch_size': 4, 'hidden_size': 4, 'hidden_layers': 3, 'momentum': 0.7, 'regularization': 0.001, 'alpha': 0.01, 'patience': 10}
+Score : 0.725000011920929
+--------------------------------------------------
+Testing params: {'learning_rate': 0.3, 'epochs': 50, 'batch_size': 4, 'hidden_size': 4, 'hidden_layers': 3, 'momentum': 0.7, 'regularization': 0.051000000000000004, 'alpha': 0.01, 'patience': 10}
+Score : 0.5666666746139526
+--------------------------------------------------
+Testing params: {'learning_rate': 0.3, 'epochs': 50, 'batch_size': 4, 'hidden_size': 4, 'hidden_layers': 3, 'momentum': 0.7999999999999999, 'regularization': 0.001, 'alpha': 0.01, 'patience': 10}
+Score : 0.5833333313465119
+--------------------------------------------------
+Testing params: {'learning_rate': 0.3, 'epochs': 50, 'batch_size': 4, 'hidden_size': 4, 'hidden_layers': 3, 'momentum': 0.7999999999999999, 'regularization': 0.051000000000000004, 'alpha': 0.01, 'patience': 10}
+Score : 0.5416666626930237
+--------------------------------------------------
+Testing params: {'learning_rate': 0.3, 'epochs': 50, 'batch_size': 4, 'hidden_size': 4, 'hidden_layers': 3, 'momentum': 0.8999999999999999, 'regularization': 0.001, 'alpha': 0.01, 'patience': 10}
+Score : 0.6
+--------------------------------------------------
+Testing params: {'learning_rate': 0.3, 'epochs': 50, 'batch_size': 4, 'hidden_size': 4, 'hidden_layers': 3, 'momentum': 0.8999999999999999, 'regularization': 0.051000000000000004, 'alpha': 0.01, 'patience': 10}
+Score : 0.6
+--------------------------------------------------
+Testing params: {'learning_rate': 0.3, 'epochs': 50, 'batch_size': 4, 'hidden_size': 5, 'hidden_layers': 1, 'momentum': 0.6, 'regularization': 0.001, 'alpha': 0.01, 'patience': 10}
+Score : 0.7916666746139527
+--------------------------------------------------
+Testing params: {'learning_rate': 0.3, 'epochs': 50, 'batch_size': 4, 'hidden_size': 5, 'hidden_layers': 1, 'momentum': 0.6, 'regularization': 0.051000000000000004, 'alpha': 0.01, 'patience': 10}
+Score : 0.7583333373069763
+--------------------------------------------------
+Testing params: {'learning_rate': 0.3, 'epochs': 50, 'batch_size': 4, 'hidden_size': 5, 'hidden_layers': 1, 'momentum': 0.7, 'regularization': 0.001, 'alpha': 0.01, 'patience': 10}
+Score : 0.7583333373069763
+--------------------------------------------------
+Testing params: {'learning_rate': 0.3, 'epochs': 50, 'batch_size': 4, 'hidden_size': 5, 'hidden_layers': 1, 'momentum': 0.7, 'regularization': 0.051000000000000004, 'alpha': 0.01, 'patience': 10}
+Score : 0.7416666626930237
+--------------------------------------------------
+Testing params: {'learning_rate': 0.3, 'epochs': 50, 'batch_size': 4, 'hidden_size': 5, 'hidden_layers': 1, 'momentum': 0.7999999999999999, 'regularization': 0.001, 'alpha': 0.01, 'patience': 10}
+Score : 0.775
+--------------------------------------------------
+Testing params: {'learning_rate': 0.3, 'epochs': 50, 'batch_size': 4, 'hidden_size': 5, 'hidden_layers': 1, 'momentum': 0.7999999999999999, 'regularization': 0.051000000000000004, 'alpha': 0.01, 'patience': 10}
+Score : 0.699999988079071
+--------------------------------------------------
+Testing params: {'learning_rate': 0.3, 'epochs': 50, 'batch_size': 4, 'hidden_size': 5, 'hidden_layers': 1, 'momentum': 0.8999999999999999, 'regularization': 0.001, 'alpha': 0.01, 'patience': 10}
+Score : 0.7083333253860473
+--------------------------------------------------
+Testing params: {'learning_rate': 0.3, 'epochs': 50, 'batch_size': 4, 'hidden_size': 5, 'hidden_layers': 1, 'momentum': 0.8999999999999999, 'regularization': 0.051000000000000004, 'alpha': 0.01, 'patience': 10}
+Score : 0.6416666626930236
+--------------------------------------------------
+Testing params: {'learning_rate': 0.3, 'epochs': 50, 'batch_size': 4, 'hidden_size': 5, 'hidden_layers': 2, 'momentum': 0.6, 'regularization': 0.001, 'alpha': 0.01, 'patience': 10}
+Score : 0.725
+--------------------------------------------------
+Testing params: {'learning_rate': 0.3, 'epochs': 50, 'batch_size': 4, 'hidden_size': 5, 'hidden_layers': 2, 'momentum': 0.6, 'regularization': 0.051000000000000004, 'alpha': 0.01, 'patience': 10}
+Score : 0.6916666626930237
+--------------------------------------------------
+Testing params: {'learning_rate': 0.3, 'epochs': 50, 'batch_size': 4, 'hidden_size': 5, 'hidden_layers': 2, 'momentum': 0.7, 'regularization': 0.001, 'alpha': 0.01, 'patience': 10}
+Score : 0.7333333253860473
+--------------------------------------------------
+Testing params: {'learning_rate': 0.3, 'epochs': 50, 'batch_size': 4, 'hidden_size': 5, 'hidden_layers': 2, 'momentum': 0.7, 'regularization': 0.051000000000000004, 'alpha': 0.01, 'patience': 10}
+Score : 0.6166666626930237
+--------------------------------------------------
+Testing params: {'learning_rate': 0.3, 'epochs': 50, 'batch_size': 4, 'hidden_size': 5, 'hidden_layers': 2, 'momentum': 0.7999999999999999, 'regularization': 0.001, 'alpha': 0.01, 'patience': 10}
+Score : 0.6666666626930237
+--------------------------------------------------
+Testing params: {'learning_rate': 0.3, 'epochs': 50, 'batch_size': 4, 'hidden_size': 5, 'hidden_layers': 2, 'momentum': 0.7999999999999999, 'regularization': 0.051000000000000004, 'alpha': 0.01, 'patience': 10}
+Score : 0.5833333492279053
+--------------------------------------------------
+Testing params: {'learning_rate': 0.3, 'epochs': 50, 'batch_size': 4, 'hidden_size': 5, 'hidden_layers': 2, 'momentum': 0.8999999999999999, 'regularization': 0.001, 'alpha': 0.01, 'patience': 10}
+Score : 0.5916666686534882
+--------------------------------------------------
+Testing params: {'learning_rate': 0.3, 'epochs': 50, 'batch_size': 4, 'hidden_size': 5, 'hidden_layers': 2, 'momentum': 0.8999999999999999, 'regularization': 0.051000000000000004, 'alpha': 0.01, 'patience': 10}
+Score : 0.5916666626930237
+--------------------------------------------------
+Testing params: {'learning_rate': 0.3, 'epochs': 50, 'batch_size': 4, 'hidden_size': 5, 'hidden_layers': 3, 'momentum': 0.6, 'regularization': 0.001, 'alpha': 0.01, 'patience': 10}
+Score : 0.7333333492279053
+--------------------------------------------------
+Testing params: {'learning_rate': 0.3, 'epochs': 50, 'batch_size': 4, 'hidden_size': 5, 'hidden_layers': 3, 'momentum': 0.6, 'regularization': 0.051000000000000004, 'alpha': 0.01, 'patience': 10}
+Score : 0.55
+--------------------------------------------------
+Testing params: {'learning_rate': 0.3, 'epochs': 50, 'batch_size': 4, 'hidden_size': 5, 'hidden_layers': 3, 'momentum': 0.7, 'regularization': 0.001, 'alpha': 0.01, 'patience': 10}
+Score : 0.6833333253860474
+--------------------------------------------------
+Testing params: {'learning_rate': 0.3, 'epochs': 50, 'batch_size': 4, 'hidden_size': 5, 'hidden_layers': 3, 'momentum': 0.7, 'regularization': 0.051000000000000004, 'alpha': 0.01, 'patience': 10}
+Score : 0.5666666746139526
+--------------------------------------------------
+Testing params: {'learning_rate': 0.3, 'epochs': 50, 'batch_size': 4, 'hidden_size': 5, 'hidden_layers': 3, 'momentum': 0.7999999999999999, 'regularization': 0.001, 'alpha': 0.01, 'patience': 10}
+Score : 0.5416666686534881
+--------------------------------------------------
+Testing params: {'learning_rate': 0.3, 'epochs': 50, 'batch_size': 4, 'hidden_size': 5, 'hidden_layers': 3, 'momentum': 0.7999999999999999, 'regularization': 0.051000000000000004, 'alpha': 0.01, 'patience': 10}
+Score : 0.5833333492279053
+--------------------------------------------------
+Testing params: {'learning_rate': 0.3, 'epochs': 50, 'batch_size': 4, 'hidden_size': 5, 'hidden_layers': 3, 'momentum': 0.8999999999999999, 'regularization': 0.001, 'alpha': 0.01, 'patience': 10}
+Score : 0.5083333373069763
+--------------------------------------------------
+Testing params: {'learning_rate': 0.3, 'epochs': 50, 'batch_size': 4, 'hidden_size': 5, 'hidden_layers': 3, 'momentum': 0.8999999999999999, 'regularization': 0.051000000000000004, 'alpha': 0.01, 'patience': 10}
+Score : 0.55
+--------------------------------------------------
+Testing params: {'learning_rate': 0.3, 'epochs': 50, 'batch_size': 4, 'hidden_size': 6, 'hidden_layers': 1, 'momentum': 0.6, 'regularization': 0.001, 'alpha': 0.01, 'patience': 10}
+Score : 0.7583333253860474
+--------------------------------------------------
+Testing params: {'learning_rate': 0.3, 'epochs': 50, 'batch_size': 4, 'hidden_size': 6, 'hidden_layers': 1, 'momentum': 0.6, 'regularization': 0.051000000000000004, 'alpha': 0.01, 'patience': 10}
+Score : 0.7833333253860474
+--------------------------------------------------
+Testing params: {'learning_rate': 0.3, 'epochs': 50, 'batch_size': 4, 'hidden_size': 6, 'hidden_layers': 1, 'momentum': 0.7, 'regularization': 0.001, 'alpha': 0.01, 'patience': 10}
+Score : 0.75
+--------------------------------------------------
+Testing params: {'learning_rate': 0.3, 'epochs': 50, 'batch_size': 4, 'hidden_size': 6, 'hidden_layers': 1, 'momentum': 0.7, 'regularization': 0.051000000000000004, 'alpha': 0.01, 'patience': 10}
+Score : 0.75
+--------------------------------------------------
+Testing params: {'learning_rate': 0.3, 'epochs': 50, 'batch_size': 4, 'hidden_size': 6, 'hidden_layers': 1, 'momentum': 0.7999999999999999, 'regularization': 0.001, 'alpha': 0.01, 'patience': 10}
+Score : 0.7499999880790711
+--------------------------------------------------
+Testing params: {'learning_rate': 0.3, 'epochs': 50, 'batch_size': 4, 'hidden_size': 6, 'hidden_layers': 1, 'momentum': 0.7999999999999999, 'regularization': 0.051000000000000004, 'alpha': 0.01, 'patience': 10}
+Score : 0.7416666626930237
+--------------------------------------------------
+Testing params: {'learning_rate': 0.3, 'epochs': 50, 'batch_size': 4, 'hidden_size': 6, 'hidden_layers': 1, 'momentum': 0.8999999999999999, 'regularization': 0.001, 'alpha': 0.01, 'patience': 10}
+Score : 0.75
+--------------------------------------------------
+Testing params: {'learning_rate': 0.3, 'epochs': 50, 'batch_size': 4, 'hidden_size': 6, 'hidden_layers': 1, 'momentum': 0.8999999999999999, 'regularization': 0.051000000000000004, 'alpha': 0.01, 'patience': 10}
+Score : 0.6333333373069763
+--------------------------------------------------
+Testing params: {'learning_rate': 0.3, 'epochs': 50, 'batch_size': 4, 'hidden_size': 6, 'hidden_layers': 2, 'momentum': 0.6, 'regularization': 0.001, 'alpha': 0.01, 'patience': 10}
+Score : 0.7499999880790711
+--------------------------------------------------
+Testing params: {'learning_rate': 0.3, 'epochs': 50, 'batch_size': 4, 'hidden_size': 6, 'hidden_layers': 2, 'momentum': 0.6, 'regularization': 0.051000000000000004, 'alpha': 0.01, 'patience': 10}
+Score : 0.6166666746139526
+--------------------------------------------------
+Testing params: {'learning_rate': 0.3, 'epochs': 50, 'batch_size': 4, 'hidden_size': 6, 'hidden_layers': 2, 'momentum': 0.7, 'regularization': 0.001, 'alpha': 0.01, 'patience': 10}
+Score : 0.700000011920929
+--------------------------------------------------
+Testing params: {'learning_rate': 0.3, 'epochs': 50, 'batch_size': 4, 'hidden_size': 6, 'hidden_layers': 2, 'momentum': 0.7, 'regularization': 0.051000000000000004, 'alpha': 0.01, 'patience': 10}
+Score : 0.5916666626930237
+--------------------------------------------------
+Testing params: {'learning_rate': 0.3, 'epochs': 50, 'batch_size': 4, 'hidden_size': 6, 'hidden_layers': 2, 'momentum': 0.7999999999999999, 'regularization': 0.001, 'alpha': 0.01, 'patience': 10}
+Score : 0.6333333492279053
+--------------------------------------------------
+Testing params: {'learning_rate': 0.3, 'epochs': 50, 'batch_size': 4, 'hidden_size': 6, 'hidden_layers': 2, 'momentum': 0.7999999999999999, 'regularization': 0.051000000000000004, 'alpha': 0.01, 'patience': 10}
+Score : 0.5833333492279053
+--------------------------------------------------
+Testing params: {'learning_rate': 0.3, 'epochs': 50, 'batch_size': 4, 'hidden_size': 6, 'hidden_layers': 2, 'momentum': 0.8999999999999999, 'regularization': 0.001, 'alpha': 0.01, 'patience': 10}
+Score : 0.675
+--------------------------------------------------
+Testing params: {'learning_rate': 0.3, 'epochs': 50, 'batch_size': 4, 'hidden_size': 6, 'hidden_layers': 2, 'momentum': 0.8999999999999999, 'regularization': 0.051000000000000004, 'alpha': 0.01, 'patience': 10}
+Score : 0.5583333492279052
+--------------------------------------------------
+Testing params: {'learning_rate': 0.3, 'epochs': 50, 'batch_size': 4, 'hidden_size': 6, 'hidden_layers': 3, 'momentum': 0.6, 'regularization': 0.001, 'alpha': 0.01, 'patience': 10}
+Score : 0.6916666626930237
+--------------------------------------------------
+Testing params: {'learning_rate': 0.3, 'epochs': 50, 'batch_size': 4, 'hidden_size': 6, 'hidden_layers': 3, 'momentum': 0.6, 'regularization': 0.051000000000000004, 'alpha': 0.01, 'patience': 10}
+Score : 0.5583333373069763
+--------------------------------------------------
+Testing params: {'learning_rate': 0.3, 'epochs': 50, 'batch_size': 4, 'hidden_size': 6, 'hidden_layers': 3, 'momentum': 0.7, 'regularization': 0.001, 'alpha': 0.01, 'patience': 10}
+Score : 0.6916666746139526
+--------------------------------------------------
+Testing params: {'learning_rate': 0.3, 'epochs': 50, 'batch_size': 4, 'hidden_size': 6, 'hidden_layers': 3, 'momentum': 0.7, 'regularization': 0.051000000000000004, 'alpha': 0.01, 'patience': 10}
+Score : 0.5666666626930237
+--------------------------------------------------
+Testing params: {'learning_rate': 0.3, 'epochs': 50, 'batch_size': 4, 'hidden_size': 6, 'hidden_layers': 3, 'momentum': 0.7999999999999999, 'regularization': 0.001, 'alpha': 0.01, 'patience': 10}
+Score : 0.5916666567325592
+--------------------------------------------------
+Testing params: {'learning_rate': 0.3, 'epochs': 50, 'batch_size': 4, 'hidden_size': 6, 'hidden_layers': 3, 'momentum': 0.7999999999999999, 'regularization': 0.051000000000000004, 'alpha': 0.01, 'patience': 10}
+Score : 0.55
+--------------------------------------------------
+Testing params: {'learning_rate': 0.3, 'epochs': 50, 'batch_size': 4, 'hidden_size': 6, 'hidden_layers': 3, 'momentum': 0.8999999999999999, 'regularization': 0.001, 'alpha': 0.01, 'patience': 10}
+Score : 0.55
+--------------------------------------------------
+Testing params: {'learning_rate': 0.3, 'epochs': 50, 'batch_size': 4, 'hidden_size': 6, 'hidden_layers': 3, 'momentum': 0.8999999999999999, 'regularization': 0.051000000000000004, 'alpha': 0.01, 'patience': 10}
+Score : 0.6416666626930236
+--------------------------------------------------
+Testing params: {'learning_rate': 0.3, 'epochs': 50, 'batch_size': 10, 'hidden_size': 1, 'hidden_layers': 1, 'momentum': 0.6, 'regularization': 0.001, 'alpha': 0.01, 'patience': 10}
+Score : 0.7416666567325592
+--------------------------------------------------
+Testing params: {'learning_rate': 0.3, 'epochs': 50, 'batch_size': 10, 'hidden_size': 1, 'hidden_layers': 1, 'momentum': 0.6, 'regularization': 0.051000000000000004, 'alpha': 0.01, 'patience': 10}
+Score : 0.7083333492279053
