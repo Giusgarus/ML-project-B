@@ -21,6 +21,7 @@ Ensure the following libraries are installed:
 - `scikit-learn`
 - `keras`
 - `torch`
+- `tensorflow`
 
 You can install the required libraries using:
 ```bash
@@ -45,6 +46,7 @@ The Monks datasets are accessible from the UCI Machine Learning Repository:
 ## Project Structure
 ```plaintext
 ├── Datasets/              # Directory for storing datasets
+├── Graphs/                # Contains the plot of the best models
 ├── Models/                # Contains model definitions for Keras and PyTorch
 ├── results/               # Store training logs and performance metrics
 ├── README.md              # Project documentation
@@ -64,9 +66,11 @@ TO BE DECIDED
 ### Support Vector Machine (Keras)
 TO BE DECIDED
 
-### Support Vector Machine (PyTorch)
+### Support Vector Machine (Scikit-learn)
 An SVM is implemented manually in PyTorch to gain a deeper understanding of its workings. Key features include:
 TO BE DECIDED
+
+### KNN (Scikit-learn)
 
 ---
 
