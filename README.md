@@ -58,19 +58,45 @@ The Monks datasets are accessible from the UCI Machine Learning Repository:
 
 ### Neural Network (Keras)
 A feedforward neural network is implemented using Keras. Key features include:
-TO BE DECIDED
+- Activation functions: `tanh`, `linear`, `relu`, `leaky relu`
+- Optimization techniques: SGD, momentum regularization, minibatch, Adam
+- Early stopping for preventing overfitting
+- All features are configurable and can be toggled on or off
 
 ### Neural Network (PyTorch)
-TO BE DECIDED
+A feedforward neural network is implemented using PyTorch. Key features include:
+- Activation functions: `tanh`, `linear`, `relu`, `leaky relu`
+- Optimization techniques: SGD, momentum regularization, minibatch, Adam
+- Early stopping for preventing overfitting
+- All features are configurable and can be toggled on or off
 
-### Support Vector Machine (Keras)
-TO BE DECIDED
+
+### Neural Network (Scikit-learn)
+An SVM is implemented using Scikit-learn. Key features include:
+- Activation functions: `tanh`, `linear`, `relu`, `leaky relu`
+- Optimization techniques: SGD, momentum regularization, minibatch, Adam
+- Early stopping for preventing overfitting
+- All features are configurable and can be toggled on or off
+
 
 ### Support Vector Machine (Scikit-learn)
-An SVM is implemented manually in PyTorch to gain a deeper understanding of its workings. Key features include:
-TO BE DECIDED
+An SVM is implemented using Scikit-learn. Key features include:
+- Kernel functions: `linear`, `poly`, `rbf`, `sigmoid`
+- Regularization parameter: `C`
+- Gamma parameter for RBF kernel
+- Support for both classification and regression tasks
+- Grid search for hyperparameter tuning
 
-### KNN (Scikit-learn)
+### K-Nearest Neighbors (Scikit-learn)
+A K-Nearest Neighbors (KNN) algorithm is implemented using Scikit-learn. Key features include:
+- Number of neighbors: `k`
+- Distance metrics: `euclidean`, `manhattan`, `minkowski`
+- Weighting options: `uniform`, `distance`
+- Support for both classification and regression tasks
+- Grid search for hyperparameter tuning
+- Cross-validation for model evaluation
+- Early stopping for preventing overfitting
+- All features are configurable and can be toggled on or off
 
 ---
 
